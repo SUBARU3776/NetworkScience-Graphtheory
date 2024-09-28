@@ -1,7 +1,5 @@
 # NetworkScience-Graphtheory
 
-Here’s the English translation of the repository description:
-
 ---
 
 ## This repository is designed for individuals new to network analysis.
@@ -67,5 +65,3 @@ The code and documentation within the repository are prohibited from commercial 
 For more details, please contact the repository owner.
 
 --- 
-
-Let me know if you need any additional modifications!
